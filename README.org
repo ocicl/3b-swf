@@ -1,0 +1,9 @@
+* 3b-swf
+
+Common Lisp .swf file manipulation library
+
+|---------+--------------------------------------|
+| source  | git:https://github.com/3b/3b-swf.git |
+| commit  | b48ca92                              |
+| systems | 3b-swf                               |
+|---------+--------------------------------------|
